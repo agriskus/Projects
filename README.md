@@ -1,1 +1,1 @@
-Personal portfolio of Python, Machine/Deep learning, Big data analytics related projects
+Personal portfolio of Python, Machine/Deep learning, Big Data Analytics related projects
